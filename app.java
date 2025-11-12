@@ -11,3 +11,4 @@ double result = (double) x / y; // result is 2.0 (type casting for floating-poin
 int remainder = x % y; // remainder is 0
 new code by dev 1 with out pulling the code
 >>>>>>> Stashed changes
+We are practicing the git fetch and merge commands
